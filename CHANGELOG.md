@@ -1,5 +1,7 @@
 # Changelog
 
+## [v0.1.1](https://github.com/mashiike/ecrm/compare/v0.1.0...v0.1.1) - 2022-09-06
+
 ## [v0.3.2](https://github.com/fujiwara/ecrm/compare/v0.3.1...v0.3.2) - 2022-09-06
 - need output format for delete command by @mashiike in https://github.com/fujiwara/ecrm/pull/11
 
